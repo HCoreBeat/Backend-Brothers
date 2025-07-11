@@ -31,6 +31,7 @@ function addLog(message) {
 // Configuración de CORS
 const allowedOrigins = [
     "https://hcorebeat.github.io",
+    "https://backend-brothers.onrender.com",
     "http://127.0.0.1:5500",
     "http://localhost:10000",
     "http://localhost:5500"
